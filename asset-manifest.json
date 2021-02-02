@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.a291f411.chunk.css",
-    "main.js": "/static/js/main.ab13efb8.chunk.js",
-    "main.js.map": "/static/js/main.ab13efb8.chunk.js.map",
+    "main.css": "/static/css/main.1aab4877.chunk.css",
+    "main.js": "/static/js/main.500a7645.chunk.js",
+    "main.js.map": "/static/js/main.500a7645.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a8287a82.js",
     "runtime-main.js.map": "/static/js/runtime-main.a8287a82.js.map",
     "static/css/2.fb346933.chunk.css": "/static/css/2.fb346933.chunk.css",
     "static/js/2.b3f9b475.chunk.js": "/static/js/2.b3f9b475.chunk.js",
     "static/js/2.b3f9b475.chunk.js.map": "/static/js/2.b3f9b475.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.665c20e369b7366597cc5339cac79253.js": "/precache-manifest.665c20e369b7366597cc5339cac79253.js",
+    "precache-manifest.88bcc1e1c54b90e19deb1f68f800120e.js": "/precache-manifest.88bcc1e1c54b90e19deb1f68f800120e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.fb346933.chunk.css.map": "/static/css/2.fb346933.chunk.css.map",
-    "static/css/main.a291f411.chunk.css.map": "/static/css/main.a291f411.chunk.css.map",
+    "static/css/main.1aab4877.chunk.css.map": "/static/css/main.1aab4877.chunk.css.map",
     "static/js/2.b3f9b475.chunk.js.LICENSE.txt": "/static/js/2.b3f9b475.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Greeting.css": "/static/media/BeautyDemo.dadbacc5.ttf",
@@ -37,7 +37,7 @@
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.c24ba791.svg",
     "static/media/graphic_chart.svg": "/static/media/graphic_chart.44a82522.svg",
     "static/media/h2ologo.png": "/static/media/h2ologo.6efc41b9.png",
-    "static/media/hexwall.png": "/static/media/hexwall.f0fbe18e.png",
+    "static/media/hexwall-min.png": "/static/media/hexwall-min.33a54d19.png",
     "static/media/ijaer.png": "/static/media/ijaer.5b062730.png",
     "static/media/ijsetr.png": "/static/media/ijsetr.ff08941b.png",
     "static/media/machine-learning.svg": "/static/media/machine-learning.d59e8df6.svg",
@@ -72,7 +72,7 @@
     "static/js/runtime-main.a8287a82.js",
     "static/css/2.fb346933.chunk.css",
     "static/js/2.b3f9b475.chunk.js",
-    "static/css/main.a291f411.chunk.css",
-    "static/js/main.ab13efb8.chunk.js"
+    "static/css/main.1aab4877.chunk.css",
+    "static/js/main.500a7645.chunk.js"
   ]
 }
