@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.5c52f963.chunk.css",
-    "main.js": "/static/js/main.d97c9c45.chunk.js",
-    "main.js.map": "/static/js/main.d97c9c45.chunk.js.map",
+    "main.css": "/static/css/main.4509ce87.chunk.css",
+    "main.js": "/static/js/main.cf67c81d.chunk.js",
+    "main.js.map": "/static/js/main.cf67c81d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a8287a82.js",
     "runtime-main.js.map": "/static/js/runtime-main.a8287a82.js.map",
     "static/css/2.fb346933.chunk.css": "/static/css/2.fb346933.chunk.css",
-    "static/js/2.b3f9b475.chunk.js": "/static/js/2.b3f9b475.chunk.js",
-    "static/js/2.b3f9b475.chunk.js.map": "/static/js/2.b3f9b475.chunk.js.map",
+    "static/js/2.2315303c.chunk.js": "/static/js/2.2315303c.chunk.js",
+    "static/js/2.2315303c.chunk.js.map": "/static/js/2.2315303c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0450057cf957e4ef23c0c65095112676.js": "/precache-manifest.0450057cf957e4ef23c0c65095112676.js",
+    "precache-manifest.9661eecbaaee847e8d4f154e1c5e962a.js": "/precache-manifest.9661eecbaaee847e8d4f154e1c5e962a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.fb346933.chunk.css.map": "/static/css/2.fb346933.chunk.css.map",
-    "static/css/main.5c52f963.chunk.css.map": "/static/css/main.5c52f963.chunk.css.map",
-    "static/js/2.b3f9b475.chunk.js.LICENSE.txt": "/static/js/2.b3f9b475.chunk.js.LICENSE.txt",
+    "static/css/main.4509ce87.chunk.css.map": "/static/css/main.4509ce87.chunk.css.map",
+    "static/js/2.2315303c.chunk.js.LICENSE.txt": "/static/js/2.2315303c.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Greeting.css": "/static/media/BeautyDemo.dadbacc5.ttf",
     "static/media/Resume.pdf": "/static/media/Resume.82de32b7.pdf",
@@ -57,6 +57,7 @@
     "static/media/siu.png": "/static/media/siu.545260e2.png",
     "static/media/sparklogo.png": "/static/media/sparklogo.aa7a1486.png",
     "static/media/splash_logo.gif": "/static/media/splash_logo.8b84e27b.gif",
+    "static/media/splash_logo_2.gif": "/static/media/splash_logo_2.9e1e0821.gif",
     "static/media/sqllogo.png": "/static/media/sqllogo.3ce2e178.png",
     "static/media/statistics-chart.svg": "/static/media/statistics-chart.85f7fb81.svg",
     "static/media/tableaulogo.png": "/static/media/tableaulogo.2d0ab6bc.png",
@@ -71,8 +72,8 @@
   "entrypoints": [
     "static/js/runtime-main.a8287a82.js",
     "static/css/2.fb346933.chunk.css",
-    "static/js/2.b3f9b475.chunk.js",
-    "static/css/main.5c52f963.chunk.css",
-    "static/js/main.d97c9c45.chunk.js"
+    "static/js/2.2315303c.chunk.js",
+    "static/css/main.4509ce87.chunk.css",
+    "static/js/main.cf67c81d.chunk.js"
   ]
 }
